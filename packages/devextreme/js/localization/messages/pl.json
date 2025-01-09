@@ -73,7 +73,7 @@
         "dxDateRangeBox-startDateLabel": "Start Date",
         "dxDateRangeBox-endDateLabel": "End Date",
 
-        "dxFileUploader-selectFile": "Wybierz plik",
+        "dxFileUploader-selectFile": "Prześlij plik",
         "dxFileUploader-dropFile": "lub przeciągnij tutaj",
         "dxFileUploader-bytes": "Bajty",
         "dxFileUploader-kb": "KB",
