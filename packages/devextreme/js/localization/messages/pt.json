@@ -67,10 +67,10 @@
         "dxDateBox-simulatedDataPickerTitleDateTime": "Selecionar data e hora",
         "dxDateBox-validation-datetime": "Valor deve ser uma data ou hora",
 
-        "dxDateRangeBox-invalidStartDateMessage": "Start value must be a date",
-        "dxDateRangeBox-invalidEndDateMessage": "End value must be a date",
-        "dxDateRangeBox-startDateOutOfRangeMessage": "Start date is out of range",
-        "dxDateRangeBox-endDateOutOfRangeMessage": "End date is out of range",
+        "dxDateRangeBox-invalidStartDateMessage": "O valor inicial deve ser uma data",
+        "dxDateRangeBox-invalidEndDateMessage": "O valor final deve ser uma data",
+        "dxDateRangeBox-startDateOutOfRangeMessage": "A data inicial está fora do intervalo permitido",
+        "dxDateRangeBox-endDateOutOfRangeMessage": "A data final está fora do intervalo permitido",
         "dxDateRangeBox-startDateLabel": "Data de Início",
         "dxDateRangeBox-endDateLabel": "Data Final",
 
@@ -202,8 +202,8 @@
         "dxDataGrid-filterPanelClearFilter": "Limpar",
         "dxDataGrid-filterPanelFilterEnabledHint": "Habilitar o filtro",
         "dxDataGrid-masterDetail": "Cell with details",
-        "dxDataGrid-moveColumnToTheRight": "Move to the right",
-        "dxDataGrid-moveColumnToTheLeft": "Move to the left",
+        "dxDataGrid-moveColumnToTheRight": "Mover para a direita",
+        "dxDataGrid-moveColumnToTheLeft": "Mover para a esquerda",
 
         "dxTreeList-ariaTreeList": "Tree list with {0} rows and {1} columns",
         "dxTreeList-ariaExpandableInstruction": "Press Ctrl + right arrow to expand the focused node and Ctrl + left arrow to collapse it",
